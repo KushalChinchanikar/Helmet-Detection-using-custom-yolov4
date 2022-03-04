@@ -1,0 +1,9 @@
+/content/drive/MyDrive/YOLO_V4/darknet/data/multiple_images/1.jpg
+/content/drive/MyDrive/YOLO_V4/darknet/data/multiple_images/10.jpg
+/content/drive/MyDrive/YOLO_V4/darknet/data/multiple_images/2.jpg
+/content/drive/MyDrive/YOLO_V4/darknet/data/multiple_images/3.jpg
+/content/drive/MyDrive/YOLO_V4/darknet/data/multiple_images/4.jpg
+/content/drive/MyDrive/YOLO_V4/darknet/data/multiple_images/5.jpg
+/content/drive/MyDrive/YOLO_V4/darknet/data/multiple_images/6.jpg
+/content/drive/MyDrive/YOLO_V4/darknet/data/multiple_images/7.jpg
+/content/drive/MyDrive/YOLO_V4/darknet/data/multiple_images/8.jpg
